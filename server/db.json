@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "5a87",
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "birthday": "2001-08-03",
+      "password": "123",
+      "role": "admin"
+    }
+  ],
+  "flights": [],
+  "bookings": []
+}

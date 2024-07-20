@@ -1,5 +1,5 @@
 {
-    "name": "ritchie-olp-2024-1-js-fr",
+    "name": "juanpabloariasmesa592",
     "version": "1.0.0",
     "description": "Online learning platform Frontend project for the JS course",
     "main": "app/index.js",
@@ -8,6 +8,7 @@
         "build": "webpack --mode production"
     },
     "dependencies": {
+        "moment": "^2.30.1",
         "quill": "^2.0.2",
         "quill-delta-to-html": "^0.12.1",
         "three.js": "^0.77.1"

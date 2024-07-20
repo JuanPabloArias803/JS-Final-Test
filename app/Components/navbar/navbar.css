@@ -1,0 +1,18 @@
+.navbar {
+    width: 100vw;
+    height: 10vh;
+    padding: 20px;
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar>p {
+    font-size: 1.3rem;
+}
+
+.navbar>span {
+    display: flex;
+    gap: 10px;
+}
